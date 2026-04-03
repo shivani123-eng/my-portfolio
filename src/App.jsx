@@ -64,7 +64,7 @@ const EDUCATION = [
 const AI_RESPONSES = {
   skills: "Shivani is highly skilled in Python, React.js, Flask, Django, and JavaScript. She also works with OpenCV, Selenium automation, and Gemini API integration. Her full-stack capabilities span both frontend and backend development.",
   projects: "Shivani has built 4 impressive projects: an Employee Onboarding Automation system, a Face Recognition Attendance system using OpenCV, a Voice-to-Text translation app, and a full Fashion Store e-commerce platform.",
-  experience: "Shivani has 2+ years of experience. She worked as a Jr. Developer at Crimsions Systems (AI & Python), as a Full Stack Developer Intern at EZ Solutions India, and as a Valuation Report Executive at Alankrati.",
+  experience: "Shivani has 1+ years of experience. She worked as a Jr. Developer at Crimsions Systems (AI & Python), as a Full Stack Developer Intern at EZ Solutions India, and as a Valuation Report Executive at Alankrati.",
   hire: "Absolutely! Shivani is open to freelance projects and full-time opportunities. She specializes in Python automation, AI integration, and full-stack web development. Reach her at sahushivani606@gmail.com or call +91 9109027927.",
   education: "Shivani holds a B.Tech in Computer Science (CGPA 7.9) from Guru Ramdas Khalsa Institute, completed 1st year of MBA from RDVV, and has a PGDCA from REVA Institute.",
   default: "Hi! I'm Shivani's AI assistant. I can tell you about her skills, projects, experience, education, or how to hire her. What would you like to know? 😊",
@@ -597,7 +597,7 @@ export default function ShivaniTech() {
               ))}
             </div>
             <p style={{ color: "#4B5563", fontSize: "13px", fontFamily: "'Space Mono',monospace", textAlign: "center" }}>
-              © 2025 Shivani Sahu · shivanitech.in · Made with <span style={{ color: "#EC4899" }}>♥</span> & lots of <span style={{ color: "#6C63FF" }}>{'</>'}</span>
+              © 2026 Shivani Sahu · shivanitech.in · Made with <span style={{ color: "#EC4899" }}>♥</span> & lots of <span style={{ color: "#6C63FF" }}>{'</>'}</span>
             </p>
           </div>
         </footer>
