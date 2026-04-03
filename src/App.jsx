@@ -334,7 +334,7 @@ export default function ShivaniTech() {
                 </div>
 
                 <div style={{ display: "flex", gap: "0", background: "white", borderRadius: "20px", padding: "20px 28px", boxShadow: "0 4px 24px rgba(108,99,255,0.08)", border: "1px solid rgba(108,99,255,0.1)", display: "inline-flex", gap: "32px", flexWrap: "wrap" }}>
-                  {[["4+", "Projects", "#6C63FF"], ["2+", "Yrs Exp", "#EC4899"], ["7.9", "CGPA", "#10B981"]].map(([n, l, c]) => (
+                  {[["4+", "Projects", "#6C63FF"], ["1+", "Yrs Exp", "#EC4899"], ["7.9", "CGPA", "#10B981"]].map(([n, l, c]) => (
                     <div key={l} style={{ textAlign: "center" }}>
                       <div style={{ fontSize: "26px", fontWeight: "800", fontFamily: "'Syne',sans-serif", color: c, letterSpacing: "-1px" }}>{n}</div>
                       <div style={{ fontSize: "11px", color: "#9CA3AF", fontWeight: "600", letterSpacing: "0.5px", marginTop: "2px" }}>{l}</div>
@@ -386,7 +386,7 @@ export default function ShivaniTech() {
                   With real-world experience at <strong style={{ color: "#1F2937" }}>Crimsions Systems</strong> and <strong style={{ color: "#1F2937" }}>EZ Solutions India</strong>, I've built face recognition systems, voice-to-text apps, and complete e-commerce platforms.
                 </p>
                 <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "12px", marginBottom: "28px" }}>
-                  {[["📍", "Location", "Jabalpur, MP", "#EEF2FF", "#6C63FF"], ["💼", "Experience", "2+ Years", "#FDF4FF", "#8B5CF6"], ["🎓", "Education", "B.Tech (CS)", "#F0FDF4", "#10B981"], ["💬", "Languages", "Hindi & English", "#FFF7ED", "#F59E0B"]].map(([icon, key, val, bg, c]) => (
+                  {[["📍", "Location", "Jabalpur, MP", "#EEF2FF", "#6C63FF"], ["💼", "Experience", "1+ Years", "#FDF4FF", "#8B5CF6"], ["🎓", "Education", "B.Tech (CS)", "#F0FDF4", "#10B981"], ["💬", "Languages", "Hindi & English", "#FFF7ED", "#F59E0B"]].map(([icon, key, val, bg, c]) => (
                     <div key={key} style={{ background: bg, border: `1px solid ${c}25`, borderRadius: "16px", padding: "16px 18px", transition: "all 0.3s" }}>
                       <div style={{ fontSize: "22px", marginBottom: "6px" }}>{icon}</div>
                       <div style={{ fontSize: "11px", color: "#9CA3AF", letterSpacing: "1px", marginBottom: "3px", fontWeight: "700", fontFamily: "'Inter',sans-serif" }}>{key.toUpperCase()}</div>
